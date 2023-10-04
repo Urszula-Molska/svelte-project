@@ -1,0 +1,10 @@
+{
+  "data": [
+    { "id": 1, "author": "Mike", "post": "This is some text1" },
+    { "id": 2, "author": "Ola", "post": "This is more text2" },
+
+    { "id": 3, "author": "Ula", "post": "This is some text3" },
+
+    { "id": 4, "author": "Ela", "post": "This is some text4" }
+  ]
+}
